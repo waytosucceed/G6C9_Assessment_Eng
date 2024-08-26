@@ -1,0 +1,466 @@
+{
+  "heading": "Homophones",
+  "topics": [
+    {
+      "heading": "Homophones",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which word correctly completes the sentence? \"I couldn't _____ the excitement in her voice.\"",
+          "options": ["bare", "bear", "bair", "beare"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Bear means to endure or tolerate, while bare means naked or uncovered."
+        },
+        {
+          "questionNo": 2,
+          "question": "Choose the correct word for the sentence: \"The _____ of the mountain was covered in snow.\"",
+          "options": ["peek", "pique", "peak", "peack"],
+          "answer": 2,
+          "image": "",
+          "explanation": "Peak refers to the top of a mountain, while peek means to take a quick look, and pique means to stimulate interest or curiosity."
+        },
+        {
+          "questionNo": 3,
+          "question": "Select the appropriate word to fill in the blank: \"She walked down the church _____ on her wedding day.\"",
+          "options": ["aisle", "isle", "I'll", "ail"],
+          "answer": 0,
+          "image": "",
+          "explanation": "An aisle is a walkway between rows of seats, while an isle is a small island."
+        },
+        {
+          "questionNo": 4,
+          "question": "The knight swore to _____ allegiance to the king. ",
+          "options": ["pledge", "pled"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Pledge means to make a solemn promise, while pled is the past tense of plead, which means to make an emotional appeal."
+        },
+        {
+          "questionNo": 5,
+          "question": "I need to _____ these clothes before I can wear them. ",
+          "options": ["dye", "die"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Dye means to colour fabric, while die means to cease living."
+        },
+        {
+          "questionNo": 6,
+          "question": "She decided to _____ her hair to make it look neater. ",
+          "options": ["braid", "brayed"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Braid means to interweave strands of hair, while brayed is the past tense of bray, which is the cry of a donkey."
+        }
+      ]
+    },
+    {
+      "heading": "Synonyms",
+      "questions": [
+        {
+          "questionNo": 7,
+          "question": "Which word is a synonym for \"courageous\"?",
+          "options": ["cowardly", "brave", "timid", "fearful"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Brave means showing courage or fearlessness, making it a synonym for courageous."
+        },
+        {
+          "questionNo": 8,
+          "question": "Choose the synonym for \"exhausted\":",
+          "options": ["energetic", "tired", "excited", "lively"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Tired means feeling fatigued or lacking energy, which is similar to being exhausted."
+        },
+        {
+          "questionNo": 9,
+          "question": "Select the word that is a synonym for \"ecstatic\":",
+          "options": ["delighted", "sad", "angry", "bored"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Delighted means feeling great pleasure or joy, making it a synonym for ecstatic."
+        },
+        {
+          "questionNo": 10,
+          "question": "Select the appropriate synonym for the word given in the bracket: She was _____ (prepared) for the test, having studied diligently for weeks.",
+          "options": ["unprepared", "ready", "unfit", "incapable"],
+          "answer": 1,
+          "image": "",
+          "explanation": "The word ready is a synonym for prepared, which means being in a suitable state or condition for something."
+        },
+        {
+          "questionNo": 11,
+          "question": "Select the appropriate synonym for the word given in the bracket: The movie was a _____ (massive) disappointment, failing to live up to expectations.",
+          "options": ["tiny", "colossal", "minuscule", "massive"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Colossal is a synonym for massive or enormous, which means something extremely large or great in size or degree."
+        },
+        {
+          "questionNo": 12,
+          "question": "Select the appropriate synonym for the word given in the bracket: Despite her _______ (energetic) efforts, she couldn't convince her friend to change his mind.",
+          "options": ["feeble", "robust", "vigorous", "weak"],
+          "answer": 2,
+          "image": "",
+          "explanation": "Vigorous is a synonym for energetic or forceful, which means putting a lot of effort or energy into an action."
+        }
+      ]
+    },
+    {
+      "heading": "Antonyms",
+      "questions": [
+        {
+          "questionNo": 13,
+          "question": "Which word is an antonym for \"generous\"?",
+          "options": ["kind", "stingy", "giving", "charitable"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Stingy means unwilling to give or spend, which is the opposite of being generous."
+        },
+        {
+          "questionNo": 14,
+          "question": "Choose the antonym for \"honest\":",
+          "options": ["truthful", "sincere", "deceptive", "trustworthy"],
+          "answer": 2,
+          "image": "",
+          "explanation": "Deceptive means intended to mislead or trick, which is the opposite of being honest."
+        },
+        {
+          "questionNo": 15,
+          "question": "Select the word that is an antonym for \"brave\":",
+          "options": ["courageous", "fearless", "cowardly", "heroic"],
+          "answer": 2,
+          "image": "",
+          "explanation": "Cowardly means lacking courage or being fearful, which is the opposite of being brave."
+        },
+        {
+          "questionNo": 16,
+          "question": "Choose the sentence that contains the antonym of the word 'diligent':",
+          "options": [
+            "The worker was always punctual and hardworking.",
+            "She approached the project with dedication and focus.",
+            "He had a lazy attitude towards his responsibilities."
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "Lazy means unwillingness to work or use energy, which is the opposite of being diligent. Diligent means having or showing care and conscientiousness in one's work or duties."
+        },
+        {
+          "questionNo": 17,
+          "question": "Select the sentence that includes the antonym of the word 'conceal':",
+          "options": [
+            "She tried to hide her true feelings from her friends.",
+            "The magician revealed his secret trick to the audience.",
+            "The spy attempted to disguise his identity."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "Reveal means to make something known or to expose something that was previously hidden, which is the opposite of conceal. Conceal means to keep something secret or hidden."
+        }
+      ]
+    },
+    {
+      "heading": "Nouns and their kinds",
+      "questions": [
+        {
+          "questionNo": 18,
+          "question": "Which of the following is a concrete noun?",
+          "options": ["happiness", "bravery", "pencil", "love"],
+          "answer": 2,
+          "image": "",
+          "explanation": "Concrete nouns refer to tangible objects that can be seen, touched, or experienced by the senses. A pencil is a physical object, making it a concrete noun."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which of the following is a collective noun?",
+          "options": ["team", "happiness", "dog", "milk"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Collective nouns refer to a group of people, animals, or things considered as one. Team refers to a group of players, making it a collective noun."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which of the following is a countable noun?",
+          "options": ["water", "furniture", "apple", "sugar"],
+          "answer": 2,
+          "image": "",
+          "explanation": "Countable nouns are items that can be counted individually. Apple can be counted (one apple, two apples), making it a countable noun."
+        },
+        {
+          "questionNo": 21,
+          "question": "\"Herd\" is a collective noun.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Collective nouns refer to a group of people, animals, or things. Herd is a collective noun that refers to a group of animals, such as cattle or sheep."
+        },
+        {
+          "questionNo": 22,
+          "question": "\"Table\" is a proper noun.",
+          "options": ["True", "False"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Proper nouns are specific names of people, places, or things. Table is a common noun because it refers to a general type of furniture and is not the name of a specific table."
+        },
+        {
+          "questionNo": 23,
+          "question": "Which of the following is an abstract noun?",
+          "options": ["tree", "laughter", "chair", "computer"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Abstract nouns refer to ideas, qualities, or states that cannot be seen or touched. Laughter is a feeling or sound, which makes it an abstract noun."
+        }
+      ]
+    },
+    {
+      "heading": "Pronouns and their kinds",
+      "questions": [
+        {
+          "questionNo": 24,
+          "question": "Which of the following is a possessive pronoun?",
+          "options": ["he", "him", "his", "himself"],
+          "answer": 2,
+          "image": "",
+          "explanation": "Possessive pronouns show ownership or possession. 'His' is a possessive pronoun that indicates something belongs to a male person."
+        },
+        {
+          "questionNo": 25,
+          "question": "Name the highlighted pronoun in the following sentence: 'The book <u style='background-color:yellow'>that</u> I borrowed from the library is due next week.'",
+          "options": ["Demonstrative", "Reflexive", "Relative", "Possessive"],
+          "answer": 2,
+          "image": "",
+          "explanation": "Relative pronouns are used to connect a clause or phrase to a noun or pronoun. In this sentence, 'that' is a relative pronoun that connects the clause 'I borrowed from the library' to the noun 'book.'"
+        },
+        {
+          "questionNo": 26,
+          "question": "'Them' is a demonstrative pronoun.",
+          "options": ["True", "False"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Demonstrative pronouns point to specific people or things. 'Them' is a personal pronoun, not a demonstrative pronoun. Examples of demonstrative pronouns include 'this,' 'that,' 'these,' and 'those.'"
+        },
+        {
+          "questionNo": 27,
+          "question": "'Ourselves' is a reflexive pronoun.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Reflexive pronouns end in '-self' or '-selves' and refer back to the subject of the sentence. 'Ourselves' is a reflexive pronoun that refers back to the subject 'we' or 'us.'"
+        },
+        {
+          "questionNo": 28,
+          "question": "Which of the following is a demonstrative pronoun?",
+          "options": ["this", "his", "we", "whom"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Demonstrative pronouns are used to point to specific things. 'This' indicates something close to the speaker."
+        },
+        {
+          "questionNo": 29,
+          "question": "Which sentence uses a reflexive pronoun correctly?",
+          "options": [
+            "She gave the book to herself.",
+            "He did it by him.",
+            "They are going by theirselves.",
+            "I will do it by me."
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "Reflexive pronouns (like 'herself') are used correctly when the subject and the object of the verb are the same person."
+        },
+        {
+          "questionNo": 30,
+          "question": "Which of the following is a relative pronoun?",
+          "options": ["we", "which", "her", "those"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Relative pronouns introduce relative clauses and refer to nouns mentioned previously. 'Which' is used to provide more information about a noun."
+        }
+      ]
+    },
+    {
+      "heading": "Adjectives and their types",
+      "questions": [
+        {
+          "questionNo": 31,
+          "question": "Which type of adjective is used in the following sentence? 'The red car is parked in the garage.'",
+          "options": [
+            "Quantitative Adjective",
+            "Qualitative Adjective",
+            "Demonstrative Adjective",
+            "Possessive Adjective"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "Qualitative adjectives describe the qualities or characteristics of a noun. In this sentence, 'red' describes the color of the car, making it a qualitative adjective."
+        },
+        {
+          "questionNo": 32,
+          "question": "Choose the interrogative adjective in the following sentence: 'Whose bag is this?'",
+          "options": ["bag", "is", "this", "Whose"],
+          "answer": 3,
+          "image": "",
+          "explanation": "Interrogative adjectives are used to ask questions about a noun. In this sentence, 'Whose' is an interrogative adjective that asks about the ownership of the bag."
+        },
+        {
+          "questionNo": 33,
+          "question": "Identify the highlighted adjective in the following sentence: 'She brought <u style='background-color:yellow'>her</u> own lunch to school.'",
+          "options": [
+            "Quantitative",
+            "Demonstrative",
+            "Possessive",
+            "Interrogative"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "Possessive adjectives show ownership or possession and come before a noun. In this sentence, 'her' is a possessive adjective that shows the lunch belongs to 'She.'"
+        },
+        {
+          "questionNo": 34,
+          "question": "'Few' is a quantitative adjective.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Quantitative adjectives describe the quantity or amount of a noun. 'Few' is a quantitative adjective that describes a small number of something."
+        },
+        {
+          "questionNo": 35,
+          "question": "'Those' is a possessive adjective.",
+          "options": ["True", "False"],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Those' is a demonstrative adjective, not a possessive adjective. Demonstrative adjectives point to specific people or things, such as 'this,' 'that,' 'these,' and 'those.'"
+        },
+        {
+          "questionNo": 36,
+          "question": "'Some' is an interrogative adjective.",
+          "options": ["True", "False"],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Some' is a quantitative adjective, not an interrogative adjective. Interrogative adjectives are used to ask questions, such as 'which,' 'what,' and 'whose.'"
+        }
+      ]
+    },
+    {
+      "heading": "Verbs",
+      "questions": [
+        {
+          "questionNo": 37,
+          "question": "Which type of verb is used in the following sentence? 'She sang a beautiful song.'",
+          "options": [
+            "Transitive Verb",
+            "Intransitive Verb",
+            "Primary Auxiliary Verb",
+            "Modal Auxiliary Verb"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "Transitive verbs are action verbs that require a direct object to complete their meaning. In this sentence, 'sang' is a transitive verb because it has a direct object, 'song.'"
+        },
+        {
+          "questionNo": 38,
+          "question": "Choose the intransitive verb in the following sentence: 'The baby slept soundly through the night.'",
+          "options": ["baby", "slept", "soundly", "night"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Intransitive verbs are action verbs that do not require a direct object to complete their meaning. In this sentence, 'slept' is an intransitive verb because it does not have a direct object."
+        },
+        {
+          "questionNo": 39,
+          "question": "Identify the highlighted verb in the following sentence: 'You <u style='background-color:yellow'>should</u> finish your homework before playing video games.'",
+          "options": ["Modal auxiliary verbs", "Primary auxiliary verbs"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Modal auxiliary verbs are used to express necessity, possibility, or permission. In this sentence, 'should' is a modal auxiliary verb that expresses advice or recommendation."
+        },
+        {
+          "questionNo": 40,
+          "question": "'Can' is a transitive verb.",
+          "options": ["True", "False"],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Can' is a modal auxiliary verb, not a transitive verb. Modal auxiliary verbs are used to express ability, permission, or possibility."
+        },
+        {
+          "questionNo": 41,
+          "question": "'Laugh' is an intransitive verb.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Intransitive verbs are action verbs that do not require a direct object to complete their meaning. 'Laugh' is an intransitive verb because it does not need a direct object."
+        },
+        {
+          "questionNo": 42,
+          "question": "'Has' is a modal auxiliary verb.",
+          "options": ["True", "False"],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Has' is a primary auxiliary verb, not a modal auxiliary verb. Primary auxiliary verbs are 'be,' 'have,' and 'do' in their various forms, while modal auxiliary verbs include 'can,' 'could,' 'may,' 'might,' 'must,' 'shall,' 'should,' 'will,' and 'would.'"
+        }
+      ]
+    },
+    {
+      "heading": "Adverbs and their types",
+      "questions": [
+        {
+          "questionNo": 43,
+          "question": "Conjunctive Adverbs are used to join two independent clauses.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Conjunctive adverbs, such as 'however,' 'moreover,' 'nevertheless,' 'therefore,' and 'consequently,' are indeed used to join two independent clauses."
+        },
+        {
+          "questionNo": 44,
+          "question": "Which of the following is an adverb of manner?",
+          "options": ["quickly", "tomorrow", "outside", "never"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Adverbs of manner describe how an action is performed. 'Quickly' describes the manner in which something is done."
+        },
+        {
+          "questionNo": 45,
+          "question": "Which of the following is an adverb of time?",
+          "options": ["silently", "now", "here", "nearby"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Adverbs of time tell us when something happens. 'Now' indicates the time something is happening."
+        },
+        {
+          "questionNo": 46,
+          "question": "Which of the following is an adverb of frequency?",
+          "options": ["very", "always", "there", "happily"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Adverbs of frequency describe how often something happens. 'Always' indicates that something happens very often."
+        },
+        {
+          "questionNo": 47,
+          "question": "'Extremely' is an adverb of degree.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Adverbs of degree indicate the intensity or degree of an action, adjective, or another adverb. 'Extremely' shows a high degree of something."
+        },
+        {
+          "questionNo": 48,
+          "question": "Which of the following is a conjunctive adverb?",
+          "options": ["however", "slowly", "today", "somewhere"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Conjunctive adverbs connect independent clauses and show relationships between them. 'However' is used to show the contrast between the two clauses."
+        }
+      ]
+    },  {
+      "heading": "Subjective",
+      "questions": [
+        {
+          "questionNo": 49,
+          "question": "Name your three favourite cartoon characters and the quality you like about them in 2-3 sentences."
+         
+        }
+      ]
+    }
+  ]
+}
